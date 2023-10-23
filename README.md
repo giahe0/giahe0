@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I'm Gia Heo 👋
+Software Enginner at <a href="http://cntt.ntt.edu.vn rel=nofollow/">Nguyễn Tất Thành University</a>
 <!--
 **giahe0/giahe0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
