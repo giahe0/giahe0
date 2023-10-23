@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200">
 <p><em>Software Enginner at <a href="http://cntt.ntt.edu.vn">Nguyễn Tất Thành University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer at <a href="https://hdbank.com.vn/">HDBank</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-[![GitHub giahe0](https://github.com/giahe0)
+[![GitHub giahe0](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/giahe0)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 ```javascript
 const huy = {
